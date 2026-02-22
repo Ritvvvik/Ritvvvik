@@ -20,10 +20,6 @@ I'm currently working on Data Science,Machine Learning and Deep Learning
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true)
-
-![PR Stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ritvvvik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
